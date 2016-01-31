@@ -1,0 +1,13 @@
+body,ul,li,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,input,form{
+   margin:0;padding:0;list-style:none;
+   font: 12px/1.5 tahoma,arial,"Hiragino Sans GB","宋体",sans-serif;
+}
+a{
+	color:#333;
+    text-decoration:none;
+}
+img{
+   border:none;
+}
+em,i{font-style: normal;}
+button,input,textarea{outline:none;}
